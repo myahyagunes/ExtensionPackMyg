@@ -1,0 +1,50 @@
+{
+  "name": "extension-pack-myg",
+  "repository": "extension-pack-myg",
+  "displayName": "Extension Pack From MYG",
+  "description": "Selection of extensions",
+  "version": "0.0.1",
+  "publisher": "myg",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "equinusocio.vsc-material-theme",
+    "esbenp.prettier-vscode",
+    "mongodb.mongodb-vscode",
+    "ms-azuretools.vscode-docker",
+    "ms-dotnettools.csharp",
+    "ms-edgedevtools.vscode-edge-devtools",
+    "ms-mssql.mssql",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-wsl",
+    "ms-vscode.js-debug",
+    "ms-vscode.powershell",
+    "ms-vscode.remote-repositories",
+    "burkeholland.simple-react-snippets",
+    "equimper.react-native-react-redux",
+    "msjsdiag.vscode-react-native",
+    "oderwat.indent-rainbow",
+    "redhat.vscode-xml",
+    "redhat.vscode-yaml",
+    "ritwickdey.liveserver",
+    "tyriar.sort-lines",
+    "visualstudioexptteam.vscodeintellicode-completions",
+    "visualstudioexptteam.vscodeintellicode",
+    "gruntfuggly.todo-tree",
+    "alexdima.copy-relative-path",
+    "bierner.markdown-preview-github-styles",
+    "aaron-bond.better-comments",
+    "mikestead.dotenv",
+    "ibm.output-colorizer",
+    "graphql.vscode-graphql-syntax",
+    "tomoki1207.pdf",
+    "chakrounanas.turbo-console-log"
+  ]
+}
