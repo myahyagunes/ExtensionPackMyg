@@ -14,11 +14,12 @@
   "extensionPack": [ 
     "christian-kohler.path-intellisense",
     "dbaeumer.vscode-eslint",
-    "equinusocio.vsc-material-theme",
+    "pkief.material-icon-theme",
     "esbenp.prettier-vscode",
     "mongodb.mongodb-vscode",
     "ms-azuretools.vscode-docker",
     "ms-dotnettools.csharp",
+    "ms-dotnettools.dotnet-interactive-vscode",
     "ms-edgedevtools.vscode-edge-devtools",
     "ms-mssql.mssql",
     "ms-vscode-remote.remote-containers",
@@ -45,6 +46,12 @@
     "ibm.output-colorizer",
     "graphql.vscode-graphql-syntax",
     "tomoki1207.pdf",
-    "chakrounanas.turbo-console-log"
+    "chakrounanas.turbo-console-log",
+    "formulahendry.auto-rename-tag",
+    "angular.ng-template",
+    "cschlosser.doxdocgen",
+    "ms-ossdata.vscode-postgresql",
+    "ms-python.python",
+    "ms-python.vscode-pylance"
   ]
 }
